@@ -91,6 +91,7 @@ h1 {
   font-weight: 500;
 }
 .home-img {
+  text-align: center;
   width: 100%;
   height: auto;
 }
